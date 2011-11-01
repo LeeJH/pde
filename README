@@ -12,6 +12,6 @@
 ! <http://www.gnu.org/licenses/>.
 *********************************************/
 
-This code needs Sundials, PETSC(with mumps), fftw3, netcdf. For more detail, please refer to the 'makefile'
+This code uses mainly Fortran, but some C, too. It needs Sundials, PETSC(with mumps), fftw3, netcdf. For more detail, please refer to the 'makefile'
 
 Document is still under developing
