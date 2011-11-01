@@ -371,3 +371,11 @@
       return
       
       end subroutine final_poisson
+      
+      
+      
+      
+      
+      
+      
+!Copyright ljhphys@gmail.com      
